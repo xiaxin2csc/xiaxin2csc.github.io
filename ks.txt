@@ -3,7 +3,7 @@ CCTV1高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/322
 CCTV2高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226138/index.m3u8
 CCTV-3高清,http://112.17.40.145/PLTV/88888888/224/3221226485/index.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/#http://112.17.40.145/PLTV/88888888/224/3221226431/index.m3u8#http://39.137.76.32:8089/00/SNM/CHANNEL00000003/index.m3u8
 CCTV4高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8#http://39.137.76.32:8089/00/SNM/CHANNEL00000004/index.m3u8
-CCTV-5高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226258/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226259/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226260/1.m3u8
+CCTV-5高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226406/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226400/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226166/index.m3u8
 CCTV5+高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226406/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226400/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226166/index.m3u8
 CCTV-6高清,http://112.17.40.145/PLTV/88888888/224/3221226487/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226433/index.m3u8#http://223.110.241.203:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/#http://39.137.76.32:8089/00/SNM/CHANNEL00000006/index.m3u8
 CCTV7高清,http://112.17.40.145/PLTV/88888888/224/3221226470/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226122/index.m3u8
@@ -68,8 +68,9 @@ BesTV,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 凤凰中文 HD,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯高清,http://112.17.40.145/PLTV/88888888/224/3221226491/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 地方频道,#genre#
-德州综合台,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-德州公共台,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
+德州新闻频道,http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8#http://video.dztv.tv:1935/live/xwzh_bq/playlist.m3u8
+德州公共频道,http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8#http://video.dztv.tv:1935/live/dzgg_bq/playlist.m3u8
+德州图文频道,http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u8#http://video.dztv.tv:1935/live/dztw_bq/playlist.m3u8
 泰安综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 泰安公共,http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
 济南新闻综合高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
@@ -80,7 +81,7 @@ BesTV,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 山东影视高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 山东体育高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
 山东农科高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-山东教育,http://39.137.76.32:8089/00/SNM/CHANNEL10000062/index.m3u8
+山东教育,http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 山东齐鲁,http://39.137.76.32:8089/00/SNM/CHANNEL00000052/index.m3u8
 经典电影,http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
 热播剧场,http://39.137.76.32:8089/00/SNM/CHANNEL00000608/index.m3u8
@@ -177,5 +178,4 @@ CLBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecre
 CLBN精品影院,http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 CLBN喜剧影院,http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 CLBN古装剧场,http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-Movie电影HD,http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 XX_0212,#genre#
